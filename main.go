@@ -1,10 +1,10 @@
 package main
 
 import (
-	"ugin/config"
-	"ugin/controller"
-	"ugin/include"
-	"ugin/model"
+	"github.com/stepin/ugin/config"
+	"github.com/stepin/ugin/controller"
+	"github.com/stepin/ugin/include"
+	"github.com/stepin/ugin/model"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"

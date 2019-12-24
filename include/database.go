@@ -2,7 +2,7 @@ package include
 
 import (
 	"fmt"
-	"ugin/config"
+	"github.com/stepin/ugin/config"
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"

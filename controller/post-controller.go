@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"ugin/include"
-	"ugin/model"
+	"github.com/stepin/ugin/include"
+	"github.com/stepin/ugin/model"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
